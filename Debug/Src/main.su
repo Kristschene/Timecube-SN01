@@ -1,0 +1,6 @@
+main.c:80:5:main	80	static
+main.c:338:6:MAIN_TimerIT	8	static
+main.c:359:6:SystemClock_Awake	120	static
+main.c:425:6:SystemClock_Sleep	120	static
+main.c:490:6:MX_TSC_Init	8	static
+main.c:523:6:_Error_Handler	16	static

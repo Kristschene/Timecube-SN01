@@ -1,0 +1,5 @@
+tsl_user.c:205:6:tsl_user_Init	8	static
+tsl_user.c:219:19:tsl_user_Exec	16	static
+tsl_user.c:310:6:tsl_user_SetThresholds	8	static
+tsl_user.c:325:8:MyTKeys_ErrorStateProcess	8	static
+tsl_user.c:335:6:MyTKeys_OffStateProcess	8	static

@@ -1,0 +1,4 @@
+rtc.c:42:6:rtc_init	32	static
+rtc.c:85:17:rtc_get_time	48	static
+rtc.c:96:17:rtc_get_date	40	static
+rtc.c:107:6:rtc_set_time_date	16	static

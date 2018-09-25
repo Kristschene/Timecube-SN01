@@ -1,0 +1,9 @@
+dcf77.c:49:6:dcf77_init	8	static
+dcf77.c:82:6:dcf77_deinit	8	static
+dcf77.c:97:16:dcf77_read_time	16	static
+dcf77.c:125:6:P_init_TIM	24	static
+dcf77.c:149:6:P_init_EXTI	32	static
+dcf77.c:171:6:P_init_PON	32	static
+dcf77.c:194:6:P_Store_Value	16	static
+dcf77.c:275:6:HAL_TIM_PeriodElapsedCallback	16	static
+dcf77.c:315:6:HAL_GPIO_EXTI_Callback	24	static
